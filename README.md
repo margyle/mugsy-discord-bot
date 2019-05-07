@@ -7,6 +7,6 @@ A discord bot for brewing coffee with Mugsy!
 - npm install discord.js
 - npm install requests
 
-###Run:
+### Run:
 
 > node index.js
