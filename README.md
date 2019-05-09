@@ -10,3 +10,5 @@ A discord bot for brewing coffee with Mugsy!
 ### Run:
 
 > node index.js
+
+Full tutorial is here: https://www.heymugsy.com/blog/2019/5/8/custom-integrations-tutorial
