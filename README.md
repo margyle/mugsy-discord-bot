@@ -41,7 +41,7 @@ This app will use two packages and they are installed using NPM(Node Package Man
 
 *   **Discord.JS**: A powerful library for interacting with the Discord API
     
-*   **Request**: Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
+*   **Request**: Request is designed to be the simplest way possible to make HTTP calls. It supports HTTPS and follows redirects by default.
     
 
 To install the packages enter the following commands in your terminal:
