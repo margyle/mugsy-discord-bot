@@ -185,7 +185,7 @@ All done! Here is a shot of all the code:
 
 You can find all of the code on Github, ready to go: [https://github.com/margyle/mugsy-discord-bot](https://github.com/margyle/mugsy-discord-bot)
 
-Thanks for taking the time to read this tutorial! It is the first of many more to come. It’s my first time doing one of these so apologies if it’s a bit rough around the edges. Feel free to share comments and corrections!
+Thanks for taking the time to read this tutorial! It is the first of many more to come.  Feel free to share comments and corrections!
 
 Cheers,
 
